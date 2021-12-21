@@ -1,0 +1,42 @@
+span
+{
+
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+
+}
+
+
+
+body
+{
+
+    background-size: cover;
+    text-align: center;
+
+}
+
+#heading
+{
+
+    background-color: rgb(255, 187, 0) ;
+    border-radius: 5px;
+
+}
+
+h3
+{
+
+    font-size: 30px;
+
+}
+
+#song_name
+{
+
+    width: 130px;
+    font-size: 23px;
+
+}
+
